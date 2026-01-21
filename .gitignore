@@ -1,0 +1,50 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.cache/
+
+# --------------------
+# Virtual Environment
+# --------------------
+venv/
+.env/
+
+# --------------------
+# Secrets / Keys
+# --------------------
+credentials.json
+*.json
+*.key
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# OS Files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# IDE / Editor
+# --------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------
+# Gradio / Temp
+# --------------------
+gradio_cached_examples/
