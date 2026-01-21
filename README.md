@@ -54,7 +54,7 @@ QuickChat/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/QuickChat.git  
+git clone https://github.com/Tejeswar001/QuickChat.git  
 cd QuickChat  
 
 ---
