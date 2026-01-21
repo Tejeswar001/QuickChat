@@ -1,0 +1,7 @@
+requests
+gspread
+oauth2client
+gradio
+python-dotenv
+google-genai
+python-dotenv
